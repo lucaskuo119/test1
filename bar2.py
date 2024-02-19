@@ -6,7 +6,7 @@ import random
 a = 0
 
 time.sleep(3)
-bar = ChargingBar('Processing', max=20)
+bar = Bar('Processing', max=20)
 
 while a<20:
     track = random.randint(1,100000)
