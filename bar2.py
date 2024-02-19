@@ -22,5 +22,5 @@ while 0<1:
             bar.next()
         
     bar.finish()
-    os.system("cls")
+    #os.system("cls")
     time.sleep(1)
